@@ -24,11 +24,6 @@
       "source": "/feed",
       "destination": "/feed.xml",
       "permanent": true
-    },
-    {
-      "source": "/sitemap.xml",
-      "destination": "/api/sitemap",
-      "permanent": false
     }
   ],
   "headers": [
