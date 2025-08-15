@@ -1,0 +1,1099 @@
+{
+  "timestamp": "2025-08-13T05:49:45.137Z",
+  "totalImages": 217,
+  "successful": 153,
+  "failed": 0,
+  "skipped": 64,
+  "downloadResults": {
+    "successful": [
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2014/09/followmystuffRunnerBeach.jpg",
+        "filename": "followmystuffRunnerBeach.jpg",
+        "outputPath": "public/images/articles/followmystuffRunnerBeach.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2014/08/followInspirationalQuotesStartDay.jpg",
+        "filename": "followInspirationalQuotesStartDay.jpg",
+        "outputPath": "public/images/articles/followInspirationalQuotesStartDay.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2017/04/runningwatches.jpg",
+        "filename": "runningwatches.jpg",
+        "outputPath": "public/images/articles/runningwatches.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2017/04/parkourparadise.jpg",
+        "filename": "parkourparadise.jpg",
+        "outputPath": "public/images/articles/parkourparadise.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2018/01/formattingDiscord.jpg",
+        "filename": "formattingDiscord.jpg",
+        "outputPath": "public/images/articles/formattingDiscord.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2017/07/faster-computer.jpg",
+        "filename": "faster-computer.jpg",
+        "outputPath": "public/images/articles/faster-computer.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/02/oscarpartypeople.jpg",
+        "filename": "oscarpartypeople.jpg",
+        "outputPath": "public/images/articles/oscarpartypeople.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2017/12/man-office-computer.jpeg",
+        "filename": "man-office-computer.jpeg",
+        "outputPath": "public/images/articles/man-office-computer.jpeg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/04/femalerunneryellowdetermined.jpg",
+        "filename": "femalerunneryellowdetermined.jpg",
+        "outputPath": "public/images/articles/femalerunneryellowdetermined.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/04/maninsweatshirtheart.jpg",
+        "filename": "maninsweatshirtheart.jpg",
+        "outputPath": "public/images/articles/maninsweatshirtheart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/04/fitnesswithdog.jpg",
+        "filename": "fitnesswithdog.jpg",
+        "outputPath": "public/images/articles/fitnesswithdog.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/07/animegirlsketch.jpg",
+        "filename": "animegirlsketch.jpg",
+        "outputPath": "public/images/articles/animegirlsketch.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2021/11/drawingatree.jpg",
+        "filename": "drawingatree.jpg",
+        "outputPath": "public/images/articles/drawingatree.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/04/female-runner-yellow-top.jpg",
+        "filename": "female-runner-yellow-top.jpg",
+        "outputPath": "public/images/articles/female-runner-yellow-top.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2021/11/procreatebanana.jpg",
+        "filename": "procreatebanana.jpg",
+        "outputPath": "public/images/articles/procreatebanana.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/BitcoinInvestorSF.jpg",
+        "filename": "BitcoinInvestorSF.jpg",
+        "outputPath": "public/images/articles/BitcoinInvestorSF.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/safebankbuilding.jpg",
+        "filename": "safebankbuilding.jpg",
+        "outputPath": "public/images/articles/safebankbuilding.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/CryptoLambo.jpg",
+        "filename": "CryptoLambo.jpg",
+        "outputPath": "public/images/articles/CryptoLambo.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/cryptohoodiescreens.jpg",
+        "filename": "cryptohoodiescreens.jpg",
+        "outputPath": "public/images/articles/cryptohoodiescreens.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/12/cryptocurrencymonsters2023.jpg",
+        "filename": "cryptocurrencymonsters2023.jpg",
+        "outputPath": "public/images/articles/cryptocurrencymonsters2023.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/12/arthistory.jpg",
+        "filename": "arthistory.jpg",
+        "outputPath": "public/images/articles/arthistory.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/12/pillarcryptowallet.jpg",
+        "filename": "pillarcryptowallet.jpg",
+        "outputPath": "public/images/articles/pillarcryptowallet.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/NFTlizard.jpg",
+        "filename": "NFTlizard.jpg",
+        "outputPath": "public/images/articles/NFTlizard.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/beautypowerdigitalart.jpg",
+        "filename": "beautypowerdigitalart.jpg",
+        "outputPath": "public/images/articles/beautypowerdigitalart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/diversityandinclusioninart.jpg",
+        "filename": "diversityandinclusioninart.jpg",
+        "outputPath": "public/images/articles/diversityandinclusioninart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/streetartstyle.jpg",
+        "filename": "streetartstyle.jpg",
+        "outputPath": "public/images/articles/streetartstyle.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/generative-AI.jpg",
+        "filename": "generative-AI.jpg",
+        "outputPath": "public/images/articles/generative-AI.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/twodogsplayingblackjack.jpg",
+        "filename": "twodogsplayingblackjack.jpg",
+        "outputPath": "public/images/articles/twodogsplayingblackjack.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/environmentalart.jpg",
+        "filename": "environmentalart.jpg",
+        "outputPath": "public/images/articles/environmentalart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/renaissanceart.jpg",
+        "filename": "renaissanceart.jpg",
+        "outputPath": "public/images/articles/renaissanceart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/insidesushirestaurant.jpg",
+        "filename": "insidesushirestaurant.jpg",
+        "outputPath": "public/images/articles/insidesushirestaurant.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/sushionplate.jpg",
+        "filename": "sushionplate.jpg",
+        "outputPath": "public/images/articles/sushionplate.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/twodogsplayingblackjackcasino.jpg",
+        "filename": "twodogsplayingblackjackcasino.jpg",
+        "outputPath": "public/images/articles/twodogsplayingblackjackcasino.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/arteducationinschools.jpg",
+        "filename": "arteducationinschools.jpg",
+        "outputPath": "public/images/articles/arteducationinschools.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/artinculturalpreservation.jpg",
+        "filename": "artinculturalpreservation.jpg",
+        "outputPath": "public/images/articles/artinculturalpreservation.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/03/colorcontemporaryart.jpg",
+        "filename": "colorcontemporaryart.jpg",
+        "outputPath": "public/images/articles/colorcontemporaryart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/impactoftechnologyindesign.jpg",
+        "filename": "impactoftechnologyindesign.jpg",
+        "outputPath": "public/images/articles/impactoftechnologyindesign.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/beginningrunnergear.jpg",
+        "filename": "beginningrunnergear.jpg",
+        "outputPath": "public/images/articles/beginningrunnergear.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/jobinterview.jpg",
+        "filename": "jobinterview.jpg",
+        "outputPath": "public/images/articles/jobinterview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/topjob2023.jpg",
+        "filename": "topjob2023.jpg",
+        "outputPath": "public/images/articles/topjob2023.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/resumewriting.jpg",
+        "filename": "resumewriting.jpg",
+        "outputPath": "public/images/articles/resumewriting.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/perfectrunningshoe.jpg",
+        "filename": "perfectrunningshoe.jpg",
+        "outputPath": "public/images/articles/perfectrunningshoe.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/entrepreneurdayinthelife.jpg",
+        "filename": "entrepreneurdayinthelife.jpg",
+        "outputPath": "public/images/articles/entrepreneurdayinthelife.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/skillstimemanagement.jpg",
+        "filename": "skillstimemanagement.jpg",
+        "outputPath": "public/images/articles/skillstimemanagement.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/careernetworkingevent.jpg",
+        "filename": "careernetworkingevent.jpg",
+        "outputPath": "public/images/articles/careernetworkingevent.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/negotiatingsalary.jpg",
+        "filename": "negotiatingsalary.jpg",
+        "outputPath": "public/images/articles/negotiatingsalary.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/standingoutamongstpeers.jpg",
+        "filename": "standingoutamongstpeers.jpg",
+        "outputPath": "public/images/articles/standingoutamongstpeers.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/communicationtechniques.jpg",
+        "filename": "communicationtechniques.jpg",
+        "outputPath": "public/images/articles/communicationtechniques.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/longdistancerelationship.jpg",
+        "filename": "longdistancerelationship.jpg",
+        "outputPath": "public/images/articles/longdistancerelationship.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/familyrelationships.jpg",
+        "filename": "familyrelationships.jpg",
+        "outputPath": "public/images/articles/familyrelationships.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/jobinterviewquestions.jpg",
+        "filename": "jobinterviewquestions.jpg",
+        "outputPath": "public/images/articles/jobinterviewquestions.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/jobrecruiter.jpg",
+        "filename": "jobrecruiter.jpg",
+        "outputPath": "public/images/articles/jobrecruiter.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/whentosaylove.jpg",
+        "filename": "whentosaylove.jpg",
+        "outputPath": "public/images/articles/whentosaylove.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/creativedatespicnic.jpg",
+        "filename": "creativedatespicnic.jpg",
+        "outputPath": "public/images/articles/creativedatespicnic.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/resolvingdisagreements.jpg",
+        "filename": "resolvingdisagreements.jpg",
+        "outputPath": "public/images/articles/resolvingdisagreements.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/friendstolovers.jpg",
+        "filename": "friendstolovers.jpg",
+        "outputPath": "public/images/articles/friendstolovers.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/painfulbreakup.jpg",
+        "filename": "painfulbreakup.jpg",
+        "outputPath": "public/images/articles/painfulbreakup.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/coping-with-partner-mental-illness.jpg",
+        "filename": "coping-with-partner-mental-illness.jpg",
+        "outputPath": "public/images/articles/coping-with-partner-mental-illness.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/womansextingonphone.jpg",
+        "filename": "womansextingonphone.jpg",
+        "outputPath": "public/images/articles/womansextingonphone.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/06/relationshipsupportivepartner.jpg",
+        "filename": "relationshipsupportivepartner.jpg",
+        "outputPath": "public/images/articles/relationshipsupportivepartner.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/nurturing-meaningful-connections.jpg",
+        "filename": "nurturing-meaningful-connections.jpg",
+        "outputPath": "public/images/articles/nurturing-meaningful-connections.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/forgivenessandbetrayal.jpg",
+        "filename": "forgivenessandbetrayal.jpg",
+        "outputPath": "public/images/articles/forgivenessandbetrayal.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/independence-and-intimacy.jpg",
+        "filename": "independence-and-intimacy.jpg",
+        "outputPath": "public/images/articles/independence-and-intimacy.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/artgalleriesoftheworld.jpg",
+        "filename": "artgalleriesoftheworld.jpg",
+        "outputPath": "public/images/articles/artgalleriesoftheworld.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/artistbrushescloseup.jpg",
+        "filename": "artistbrushescloseup.jpg",
+        "outputPath": "public/images/articles/artistbrushescloseup.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/establishingboundaries.jpg",
+        "filename": "establishingboundaries.jpg",
+        "outputPath": "public/images/articles/establishingboundaries.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/05/historyandevolutionofabstractart.jpg",
+        "filename": "historyandevolutionofabstractart.jpg",
+        "outputPath": "public/images/articles/historyandevolutionofabstractart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/emerging-art-styles.jpg",
+        "filename": "emerging-art-styles.jpg",
+        "outputPath": "public/images/articles/emerging-art-styles.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/personal-finance-behavior.jpg",
+        "filename": "personal-finance-behavior.jpg",
+        "outputPath": "public/images/articles/personal-finance-behavior.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/followWomanPaintingWatercolor.jpg",
+        "filename": "followWomanPaintingWatercolor.jpg",
+        "outputPath": "public/images/articles/followWomanPaintingWatercolor.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/famousartinstallations.jpg",
+        "filename": "famousartinstallations.jpg",
+        "outputPath": "public/images/articles/famousartinstallations.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/journey-fresh-produce.jpg",
+        "filename": "journey-fresh-produce.jpg",
+        "outputPath": "public/images/articles/journey-fresh-produce.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/artofprintmaking.jpg",
+        "filename": "artofprintmaking.jpg",
+        "outputPath": "public/images/articles/artofprintmaking.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/worldofstreetart.jpg",
+        "filename": "worldofstreetart.jpg",
+        "outputPath": "public/images/articles/worldofstreetart.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/dishes-under-30-minutes.jpg",
+        "filename": "dishes-under-30-minutes.jpg",
+        "outputPath": "public/images/articles/dishes-under-30-minutes.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/art-of-homemade-pasta.jpg",
+        "filename": "art-of-homemade-pasta.jpg",
+        "outputPath": "public/images/articles/art-of-homemade-pasta.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/international-food-trends.jpg",
+        "filename": "international-food-trends.jpg",
+        "outputPath": "public/images/articles/international-food-trends.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/foodgasm.jpg",
+        "filename": "foodgasm.jpg",
+        "outputPath": "public/images/articles/foodgasm.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/boy-eating-umami-fries.jpg",
+        "filename": "boy-eating-umami-fries.jpg",
+        "outputPath": "public/images/articles/boy-eating-umami-fries.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/differentpencilshades.jpg",
+        "filename": "differentpencilshades.jpg",
+        "outputPath": "public/images/articles/differentpencilshades.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/exploring-umami.jpg",
+        "filename": "exploring-umami.jpg",
+        "outputPath": "public/images/articles/exploring-umami.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/preparing-meals-with-kitchen-leftovers.jpg",
+        "filename": "preparing-meals-with-kitchen-leftovers.jpg",
+        "outputPath": "public/images/articles/preparing-meals-with-kitchen-leftovers.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/commonriskfactorsincryptocurrency.jpg",
+        "filename": "commonriskfactorsincryptocurrency.jpg",
+        "outputPath": "public/images/articles/commonriskfactorsincryptocurrency.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/bitcoin-forecast.jpg",
+        "filename": "bitcoin-forecast.jpg",
+        "outputPath": "public/images/articles/bitcoin-forecast.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/masterfulinking.jpg",
+        "filename": "masterfulinking.jpg",
+        "outputPath": "public/images/articles/masterfulinking.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/bitcoincashforecast.jpg",
+        "filename": "bitcoincashforecast.jpg",
+        "outputPath": "public/images/articles/bitcoincashforecast.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/cryptocurrency-risk-management.jpg",
+        "filename": "cryptocurrency-risk-management.jpg",
+        "outputPath": "public/images/articles/cryptocurrency-risk-management.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/blockchain-industry.jpg",
+        "filename": "blockchain-industry.jpg",
+        "outputPath": "public/images/articles/blockchain-industry.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/blockchain-hash.jpg",
+        "filename": "blockchain-hash.jpg",
+        "outputPath": "public/images/articles/blockchain-hash.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/woman-crypto-investing-reddit.jpg",
+        "filename": "woman-crypto-investing-reddit.jpg",
+        "outputPath": "public/images/articles/woman-crypto-investing-reddit.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/10-reasons-invest-cryptocurrency.jpg",
+        "filename": "10-reasons-invest-cryptocurrency.jpg",
+        "outputPath": "public/images/articles/10-reasons-invest-cryptocurrency.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/blockchain-three-advantages.jpg",
+        "filename": "blockchain-three-advantages.jpg",
+        "outputPath": "public/images/articles/blockchain-three-advantages.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/resume-writing-workshop.jpg",
+        "filename": "resume-writing-workshop.jpg",
+        "outputPath": "public/images/articles/resume-writing-workshop.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/resume-writing-101.jpg",
+        "filename": "resume-writing-101.jpg",
+        "outputPath": "public/images/articles/resume-writing-101.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/benefits-of-blockchain.jpg",
+        "filename": "benefits-of-blockchain.jpg",
+        "outputPath": "public/images/articles/benefits-of-blockchain.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/technical-writing-resume.jpg",
+        "filename": "technical-writing-resume.jpg",
+        "outputPath": "public/images/articles/technical-writing-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/09/supplychainfinanceblockchain.jpg",
+        "filename": "supplychainfinanceblockchain.jpg",
+        "outputPath": "public/images/articles/supplychainfinanceblockchain.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/college-to-career-resume.jpg",
+        "filename": "college-to-career-resume.jpg",
+        "outputPath": "public/images/articles/college-to-career-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/resume-layout.jpg",
+        "filename": "resume-layout.jpg",
+        "outputPath": "public/images/articles/resume-layout.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/modern-resume.jpg",
+        "filename": "modern-resume.jpg",
+        "outputPath": "public/images/articles/modern-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/woman-writing-stellar-resume.jpg",
+        "filename": "woman-writing-stellar-resume.jpg",
+        "outputPath": "public/images/articles/woman-writing-stellar-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/optimizing-your-resume-for-ats-systems.jpg",
+        "filename": "optimizing-your-resume-for-ats-systems.jpg",
+        "outputPath": "public/images/articles/optimizing-your-resume-for-ats-systems.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/employment-gaps-in-your-resume.jpg",
+        "filename": "employment-gaps-in-your-resume.jpg",
+        "outputPath": "public/images/articles/employment-gaps-in-your-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/resume-elevator-pitch.jpg",
+        "filename": "resume-elevator-pitch.jpg",
+        "outputPath": "public/images/articles/resume-elevator-pitch.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/action-verbs-for-resume-success.jpg",
+        "filename": "action-verbs-for-resume-success.jpg",
+        "outputPath": "public/images/articles/action-verbs-for-resume-success.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/tailored-resume.jpg",
+        "filename": "tailored-resume.jpg",
+        "outputPath": "public/images/articles/tailored-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/visual-resumes.jpg",
+        "filename": "visual-resumes.jpg",
+        "outputPath": "public/images/articles/visual-resumes.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/executive-interview-preparation.jpg",
+        "filename": "executive-interview-preparation.jpg",
+        "outputPath": "public/images/articles/executive-interview-preparation.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/prepare-for-screening-interview.jpg",
+        "filename": "prepare-for-screening-interview.jpg",
+        "outputPath": "public/images/articles/prepare-for-screening-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/overprepare-for-interview.jpg",
+        "filename": "overprepare-for-interview.jpg",
+        "outputPath": "public/images/articles/overprepare-for-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/internship-interview-preparation.jpg",
+        "filename": "internship-interview-preparation.jpg",
+        "outputPath": "public/images/articles/internship-interview-preparation.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/how-to-network-with-recruiters-on-linkedin.jpg",
+        "filename": "how-to-network-with-recruiters-on-linkedin.jpg",
+        "outputPath": "public/images/articles/how-to-network-with-recruiters-on-linkedin.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/remote-interview-preparation.jpg",
+        "filename": "remote-interview-preparation.jpg",
+        "outputPath": "public/images/articles/remote-interview-preparation.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/how-to-grow-your-linkedin-network.jpg",
+        "filename": "how-to-grow-your-linkedin-network.jpg",
+        "outputPath": "public/images/articles/how-to-grow-your-linkedin-network.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/how-to-improve-your-networking-skills.jpg",
+        "filename": "how-to-improve-your-networking-skills.jpg",
+        "outputPath": "public/images/articles/how-to-improve-your-networking-skills.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/preparing-for-second-interview.jpg",
+        "filename": "preparing-for-second-interview.jpg",
+        "outputPath": "public/images/articles/preparing-for-second-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/meeting-new-contacts.jpg",
+        "filename": "meeting-new-contacts.jpg",
+        "outputPath": "public/images/articles/meeting-new-contacts.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/schmoozing101.jpg",
+        "filename": "schmoozing101.jpg",
+        "outputPath": "public/images/articles/schmoozing101.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/music-industry-networking-events.jpg",
+        "filename": "music-industry-networking-events.jpg",
+        "outputPath": "public/images/articles/music-industry-networking-events.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/largest-alumni-network.jpg",
+        "filename": "largest-alumni-network.jpg",
+        "outputPath": "public/images/articles/largest-alumni-network.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/online-networking-events.jpg",
+        "filename": "online-networking-events.jpg",
+        "outputPath": "public/images/articles/online-networking-events.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/professional-networking-sites-for-jobs.jpg",
+        "filename": "professional-networking-sites-for-jobs.jpg",
+        "outputPath": "public/images/articles/professional-networking-sites-for-jobs.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-virtual-networking-tips.jpg",
+        "filename": "fms-virtual-networking-tips.jpg",
+        "outputPath": "public/images/articles/fms-virtual-networking-tips.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/how-to-network-at-events.jpg",
+        "filename": "how-to-network-at-events.jpg",
+        "outputPath": "public/images/articles/how-to-network-at-events.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-for-young-professionals.jpg",
+        "filename": "networking-for-young-professionals.jpg",
+        "outputPath": "public/images/articles/networking-for-young-professionals.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-for-introverts.jpg",
+        "filename": "networking-for-introverts.jpg",
+        "outputPath": "public/images/articles/networking-for-introverts.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/what-to-do-at-a-networking-event.jpg",
+        "filename": "what-to-do-at-a-networking-event.jpg",
+        "outputPath": "public/images/articles/what-to-do-at-a-networking-event.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/in-person-networking.jpg",
+        "filename": "in-person-networking.jpg",
+        "outputPath": "public/images/articles/in-person-networking.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-strategies.jpg",
+        "filename": "networking-strategies.jpg",
+        "outputPath": "public/images/articles/networking-strategies.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-how-to-prepare-for-a-video-interview.jpg",
+        "filename": "fms-how-to-prepare-for-a-video-interview.jpg",
+        "outputPath": "public/images/articles/fms-how-to-prepare-for-a-video-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-interview-preparation-checklist.jpg",
+        "filename": "fms-interview-preparation-checklist.jpg",
+        "outputPath": "public/images/articles/fms-interview-preparation-checklist.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/job-interview-questions-and-answers.jpg",
+        "filename": "job-interview-questions-and-answers.jpg",
+        "outputPath": "public/images/articles/job-interview-questions-and-answers.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/standing-out-in-a-group-interview.jpg",
+        "filename": "standing-out-in-a-group-interview.jpg",
+        "outputPath": "public/images/articles/standing-out-in-a-group-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/phone-screen-interview.jpg",
+        "filename": "phone-screen-interview.jpg",
+        "outputPath": "public/images/articles/phone-screen-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/navigating-a-panel-interview.jpg",
+        "filename": "navigating-a-panel-interview.jpg",
+        "outputPath": "public/images/articles/navigating-a-panel-interview.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/behavioral-interview-preparation.jpg",
+        "filename": "behavioral-interview-preparation.jpg",
+        "outputPath": "public/images/articles/behavioral-interview-preparation.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/technical-interview-preparation.jpg",
+        "filename": "technical-interview-preparation.jpg",
+        "outputPath": "public/images/articles/technical-interview-preparation.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/12/fms-job-search-strategies.jpg",
+        "filename": "fms-job-search-strategies.jpg",
+        "outputPath": "public/images/articles/fms-job-search-strategies.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/12/re-inventing-personal-brand.jpg",
+        "filename": "re-inventing-personal-brand.jpg",
+        "outputPath": "public/images/articles/re-inventing-personal-brand.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/blockchain-in-personal-banking.jpg",
+        "filename": "blockchain-in-personal-banking.jpg",
+        "outputPath": "public/images/articles/blockchain-in-personal-banking.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/wiriting-cover-letter.jpg",
+        "filename": "wiriting-cover-letter.jpg",
+        "outputPath": "public/images/articles/wiriting-cover-letter.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/crafting-a-resume.jpg",
+        "filename": "crafting-a-resume.jpg",
+        "outputPath": "public/images/articles/crafting-a-resume.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/masteringworkplacecommunication.jpg",
+        "filename": "masteringworkplacecommunication.jpg",
+        "outputPath": "public/images/articles/masteringworkplacecommunication.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/networkingninja.jpg",
+        "filename": "networkingninja.jpg",
+        "outputPath": "public/images/articles/networkingninja.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/03/work-life-balance.jpg",
+        "filename": "work-life-balance.jpg",
+        "outputPath": "public/images/articles/work-life-balance.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/03/advancing-within-your-own-company.jpg",
+        "filename": "advancing-within-your-own-company.jpg",
+        "outputPath": "public/images/articles/advancing-within-your-own-company.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/03/art-of-self-promotion.jpg",
+        "filename": "art-of-self-promotion.jpg",
+        "outputPath": "public/images/articles/art-of-self-promotion.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/effective-leader.jpg",
+        "filename": "effective-leader.jpg",
+        "outputPath": "public/images/articles/effective-leader.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/personalizedcareerdevelopmentplan.jpg",
+        "filename": "personalizedcareerdevelopmentplan.jpg",
+        "outputPath": "public/images/articles/personalizedcareerdevelopmentplan.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/fmsCareerChange101.jpg",
+        "filename": "fmsCareerChange101.jpg",
+        "outputPath": "public/images/articles/fmsCareerChange101.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsYoungManCafeLaptopJobSearch.jpg",
+        "filename": "fmsYoungManCafeLaptopJobSearch.jpg",
+        "outputPath": "public/images/articles/fmsYoungManCafeLaptopJobSearch.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/fmsThrivingRemoteJobOpportunities.jpg",
+        "filename": "fmsThrivingRemoteJobOpportunities.jpg",
+        "outputPath": "public/images/articles/fmsThrivingRemoteJobOpportunities.jpg"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/03/robot-cosplay-job-fair.jpg",
+        "filename": "robot-cosplay-job-fair.jpg",
+        "outputPath": "public/images/articles/robot-cosplay-job-fair.jpg"
+      }
+    ],
+    "failed": [],
+    "skipped": [
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2017/04/running-treadmill.jpg",
+        "filename": "running-treadmill.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2017/04/parkourparadisestart.jpg",
+        "filename": "parkourparadisestart.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/02/woman-black-sequined-dress-1024x788.jpg",
+        "filename": "woman-black-sequined-dress-1024x788.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/02/party-food-1024x712.jpg",
+        "filename": "party-food-1024x712.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2019/07/animegirlwindsketch.jpg",
+        "filename": "animegirlwindsketch.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2021/11/drawTreeSketch.jpg",
+        "filename": "drawTreeSketch.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2021/11/drawTreeLineArt.jpg",
+        "filename": "drawTreeLineArt.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2021/11/drawTreeFlatColor.jpg",
+        "filename": "drawTreeFlatColor.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2021/11/drawTreeFinal.jpg",
+        "filename": "drawTreeFinal.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/cryptocurrency-mining-warehouse.jpg",
+        "filename": "cryptocurrency-mining-warehouse.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/SatoshiNakamotoStylizedPortrait.jpg",
+        "filename": "SatoshiNakamotoStylizedPortrait.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/09/secure-wallet.jpg",
+        "filename": "secure-wallet.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2022/12/arthistorymuseum.jpg",
+        "filename": "arthistorymuseum.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/manhangingNFTart.jpg",
+        "filename": "manhangingNFTart.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/purpleboylighting.jpg",
+        "filename": "purpleboylighting.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/02/purpleboylighting-1024x682.jpg",
+        "filename": "purpleboylighting-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/roleofartinculturalpreservation.jpg",
+        "filename": "roleofartinculturalpreservation.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/roleofartinculturalpreservation-1024x682.jpg",
+        "filename": "roleofartinculturalpreservation-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/nighttimeargument.jpg",
+        "filename": "nighttimeargument.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/nighttimeargument-1024x682.jpg",
+        "filename": "nighttimeargument-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/coupleandbetrayal.jpg",
+        "filename": "coupleandbetrayal.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/04/coupleandbetrayal-1024x682.jpg",
+        "filename": "coupleandbetrayal-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/debt-dragon.jpg",
+        "filename": "debt-dragon.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/07/debt-dragon-1024x682.jpg",
+        "filename": "debt-dragon-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/streetartbuilding.jpg",
+        "filename": "streetartbuilding.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/streetartbuilding-1024x682.jpg",
+        "filename": "streetartbuilding-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/woman-cooking-dishes-under-30-minutes.jpg",
+        "filename": "woman-cooking-dishes-under-30-minutes.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/08/woman-cooking-dishes-under-30-minutes-1024x682.jpg",
+        "filename": "woman-cooking-dishes-under-30-minutes-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/female-executive-interview-preparation.jpg",
+        "filename": "female-executive-interview-preparation.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/female-executive-interview-preparation-1024x682.jpg",
+        "filename": "female-executive-interview-preparation-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/young-female-intern-interviewing-office.jpg",
+        "filename": "young-female-intern-interviewing-office.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/young-female-intern-interviewing-office-1024x682.jpg",
+        "filename": "young-female-intern-interviewing-office-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/intern-interviewing-asking-question.jpg",
+        "filename": "intern-interviewing-asking-question.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/10/intern-interviewing-asking-question-1024x682.jpg",
+        "filename": "intern-interviewing-asking-question-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-virtual-netwoking-mingle.jpg",
+        "filename": "fms-virtual-netwoking-mingle.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-virtual-netwoking-mingle-1024x683.jpg",
+        "filename": "fms-virtual-netwoking-mingle-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-virtual-networking-follow-up.jpg",
+        "filename": "fms-virtual-networking-follow-up.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/fms-virtual-networking-follow-up-1024x683.jpg",
+        "filename": "fms-virtual-networking-follow-up-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-events-scoping-room.jpg",
+        "filename": "networking-events-scoping-room.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-events-scoping-room-1024x683.jpg",
+        "filename": "networking-events-scoping-room-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-events-swapping-contact-information.jpg",
+        "filename": "networking-events-swapping-contact-information.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-events-swapping-contact-information-1024x683.jpg",
+        "filename": "networking-events-swapping-contact-information-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-tiktok.jpg",
+        "filename": "networking-tiktok.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/networking-tiktok-1024x683.jpg",
+        "filename": "networking-tiktok-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/golden-rules-of-networking.jpg",
+        "filename": "golden-rules-of-networking.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/golden-rules-of-networking-1024x683.jpg",
+        "filename": "golden-rules-of-networking-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/ready-for-job-interview.jpg",
+        "filename": "ready-for-job-interview.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/ready-for-job-interview-1024x682.jpg",
+        "filename": "ready-for-job-interview-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/female-programmer-interview-preparation.jpg",
+        "filename": "female-programmer-interview-preparation.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/11/female-programmer-interview-preparation-1024x682.jpg",
+        "filename": "female-programmer-interview-preparation-1024x682.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/12/fms-job-interview-office-man-woman.jpg",
+        "filename": "fms-job-interview-office-man-woman.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2023/12/fms-job-interview-office-man-woman-1024x683.jpg",
+        "filename": "fms-job-interview-office-man-woman-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/networkingninjasmokebomb.jpg",
+        "filename": "networkingninjasmokebomb.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/networkingninjasmokebomb-1024x683.jpg",
+        "filename": "networkingninjasmokebomb-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/ninjanetworkingsneakintoroom.jpg",
+        "filename": "ninjanetworkingsneakintoroom.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2024/02/ninjanetworkingsneakintoroom-1024x683.jpg",
+        "filename": "ninjanetworkingsneakintoroom-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsWomanParkLaptop.jpg",
+        "filename": "fmsWomanParkLaptop.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsWomanParkLaptop-1024x683.jpg",
+        "filename": "fmsWomanParkLaptop-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsManConsideringCareerChange.jpg",
+        "filename": "fmsManConsideringCareerChange.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsManConsideringCareerChange-1024x683.jpg",
+        "filename": "fmsManConsideringCareerChange-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsWomanPlanningCareerChange.jpg",
+        "filename": "fmsWomanPlanningCareerChange.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsWomanPlanningCareerChange-1024x683.jpg",
+        "filename": "fmsWomanPlanningCareerChange-1024x683.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsWorkingHomePajamas.jpg",
+        "filename": "fmsWorkingHomePajamas.jpg",
+        "reason": "already exists"
+      },
+      {
+        "url": "https://www.followmystuff.com/wp-content/uploads/2025/02/fmsWorkingHomePajamas-1024x683.jpg",
+        "filename": "fmsWorkingHomePajamas-1024x683.jpg",
+        "reason": "already exists"
+      }
+    ]
+  }
+}

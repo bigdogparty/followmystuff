@@ -1,0 +1,376 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@layer base {
+  :root {
+    /* Typography Scale (1.333 - Perfect Fourth) */
+    --font-size-xs: 0.75rem;     /* 12px */
+    --font-size-sm: 0.875rem;    /* 14px */
+    --font-size-base: 1rem;      /* 16px */
+    --font-size-lg: 1.125rem;    /* 18px */
+    --font-size-xl: 1.25rem;     /* 20px */
+    --font-size-2xl: 1.5rem;     /* 24px */
+    --font-size-3xl: 2rem;       /* 32px */
+    --font-size-4xl: 2.625rem;   /* 42px */
+    --font-size-5xl: 3.5rem;     /* 56px */
+    --font-size-6xl: 4.75rem;    /* 76px */
+    
+    /* Line Heights */
+    --line-height-tight: 1.25;
+    --line-height-snug: 1.375;
+    --line-height-normal: 1.5;
+    --line-height-relaxed: 1.625;
+    --line-height-loose: 2;
+    
+    /* Spacing Scale */
+    --space-1: 0.25rem;   /* 4px */
+    --space-2: 0.5rem;    /* 8px */
+    --space-3: 0.75rem;   /* 12px */
+    --space-4: 1rem;      /* 16px */
+    --space-5: 1.25rem;   /* 20px */
+    --space-6: 1.5rem;    /* 24px */
+    --space-8: 2rem;      /* 32px */
+    --space-10: 2.5rem;   /* 40px */
+    --space-12: 3rem;     /* 48px */
+    --space-16: 4rem;     /* 64px */
+    --space-20: 5rem;     /* 80px */
+    --space-24: 6rem;     /* 96px */
+  }
+
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100;
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-normal);
+  }
+  
+  /* Enhanced Typography Hierarchy */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-weight: 700;
+    line-height: var(--line-height-tight);
+    letter-spacing: -0.025em;
+    color: inherit;
+  }
+  
+  h1 {
+    font-size: var(--font-size-5xl);
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: var(--space-8);
+  }
+  
+  @media (max-width: 768px) {
+    h1 {
+      font-size: var(--font-size-4xl);
+      margin-bottom: var(--space-6);
+    }
+  }
+  
+  h2 {
+    font-size: var(--font-size-4xl);
+    font-weight: 700;
+    margin-top: var(--space-12);
+    margin-bottom: var(--space-6);
+  }
+  
+  @media (max-width: 768px) {
+    h2 {
+      font-size: var(--font-size-3xl);
+      margin-top: var(--space-10);
+      margin-bottom: var(--space-5);
+    }
+  }
+  
+  h3 {
+    font-size: var(--font-size-3xl);
+    font-weight: 700;
+    margin-top: var(--space-10);
+    margin-bottom: var(--space-5);
+  }
+  
+  @media (max-width: 768px) {
+    h3 {
+      font-size: var(--font-size-2xl);
+      margin-top: var(--space-8);
+      margin-bottom: var(--space-4);
+    }
+  }
+  
+  h4 {
+    font-size: var(--font-size-2xl);
+    font-weight: 600;
+    margin-top: var(--space-8);
+    margin-bottom: var(--space-4);
+  }
+  
+  h5 {
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-3);
+  }
+  
+  h6 {
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    margin-top: var(--space-5);
+    margin-bottom: var(--space-3);
+  }
+  
+  /* Enhanced Article Typography */
+  article, .prose-enhanced {
+    line-height: var(--line-height-relaxed);
+  }
+  
+  article p, .prose-enhanced p {
+    font-size: var(--font-size-lg);
+    line-height: var(--line-height-relaxed);
+    margin-bottom: var(--space-10);
+    max-width: 65ch; /* Optimal reading width */
+    color: theme('colors.gray.700');
+  }
+  
+  .dark article p, .dark .prose-enhanced p {
+    color: theme('colors.gray.300');
+  }
+  
+  article p:first-of-type, .prose-enhanced p:first-of-type {
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    color: theme('colors.gray.600');
+    margin-bottom: var(--space-10);
+  }
+  
+  .dark article p:first-of-type, .dark .prose-enhanced p:first-of-type {
+    color: theme('colors.gray.400');
+  }
+  
+  /* Better spacing after headers */
+  article h1 + p, .prose-enhanced h1 + p,
+  article h2 + p, .prose-enhanced h2 + p,
+  article h3 + p, .prose-enhanced h3 + p,
+  article h4 + p, .prose-enhanced h4 + p,
+  article h5 + p, .prose-enhanced h5 + p,
+  article h6 + p, .prose-enhanced h6 + p {
+    margin-top: 0;
+  }
+  
+  /* Ensure headers that follow content have proper top spacing */
+  article p + h2, .prose-enhanced p + h2,
+  article p + h3, .prose-enhanced p + h3,
+  article p + h4, .prose-enhanced p + h4,
+  article ul + h2, .prose-enhanced ul + h2,
+  article ul + h3, .prose-enhanced ul + h3,
+  article ul + h4, .prose-enhanced ul + h4,
+  article ol + h2, .prose-enhanced ol + h2,
+  article ol + h3, .prose-enhanced ol + h3,
+  article ol + h4, .prose-enhanced ol + h4 {
+    margin-top: var(--space-12);
+  }
+  
+  @media (max-width: 768px) {
+    article p + h2,
+    article p + h3,
+    article p + h4,
+    article ul + h2,
+    article ul + h3,
+    article ul + h4,
+    article ol + h2,
+    article ol + h3,
+    article ol + h4 {
+      margin-top: var(--space-10);
+    }
+  }
+  
+  article ul, article ol, .prose-enhanced ul, .prose-enhanced ol {
+    margin-bottom: var(--space-10);
+    padding-left: var(--space-6);
+    max-width: 65ch;
+  }
+  
+  article li, .prose-enhanced li {
+    margin-bottom: var(--space-2);
+    font-size: var(--font-size-lg);
+    line-height: var(--line-height-relaxed);
+  }
+  
+  article blockquote, .prose-enhanced blockquote {
+    border-left: 4px solid theme('colors.blue.500');
+    padding-left: var(--space-6);
+    margin: var(--space-10) 0;
+    font-style: italic;
+    font-size: var(--font-size-xl);
+    color: theme('colors.gray.600');
+  }
+  
+  .dark article blockquote, .dark .prose-enhanced blockquote {
+    border-left-color: theme('colors.blue.400');
+    color: theme('colors.gray.400');
+  }
+}
+
+@layer components {
+  /* Enhanced Color System */
+  :root {
+    /* Semantic Color Palette */
+    --color-primary: 59 130 246; /* blue-500 */
+    --color-primary-dark: 37 99 235; /* blue-600 */
+    --color-secondary: 107 114 128; /* gray-500 */
+    --color-accent: 245 158 11; /* amber-500 */
+    --color-accent-dark: 217 119 6; /* amber-600 */
+    --color-success: 34 197 94; /* green-500 */
+    --color-warning: 251 191 36; /* yellow-400 */
+    --color-error: 239 68 68; /* red-500 */
+    
+    /* Category Colors */
+    --color-career: 59 130 246; /* blue-500 */
+    --color-wellness: 34 197 94; /* green-500 */
+    --color-finance: 245 158 11; /* amber-500 */
+    --color-development: 139 92 246; /* violet-500 */
+    --color-leadership: 236 72 153; /* pink-500 */
+    
+    /* Shadow System */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  }
+  
+  /* Enhanced Button Styles */
+  .btn-primary {
+    @apply bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-lg transition-all duration-200;
+    box-shadow: var(--shadow-md);
+  }
+  
+  .btn-primary:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-1px);
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-100 hover:bg-gray-200 text-gray-900 font-medium px-6 py-3 rounded-lg transition-all duration-200 border border-gray-200;
+    box-shadow: var(--shadow-sm);
+  }
+  
+  .btn-secondary:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+  }
+  
+  .dark .btn-secondary {
+    @apply bg-gray-700 hover:bg-gray-600 text-gray-100 border-gray-600;
+  }
+  
+  /* Enhanced Card Styles */
+  .card {
+    @apply bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 transition-all duration-200;
+    box-shadow: var(--shadow-sm);
+  }
+  
+  .card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+  
+  .card-featured {
+    @apply bg-white dark:bg-gray-800 rounded-xl border-2 border-blue-200 dark:border-blue-800 transition-all duration-200;
+    box-shadow: var(--shadow-lg);
+  }
+  
+  .card-featured:hover {
+    box-shadow: var(--shadow-xl);
+    transform: translateY(-3px);
+  }
+  
+  /* Category Badge Styles */
+  .badge-career {
+    @apply bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200;
+  }
+  
+  .badge-wellness {
+    @apply bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200;
+  }
+  
+  .badge-finance {
+    @apply bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200;
+  }
+  
+  .badge-development {
+    @apply bg-violet-100 text-violet-800 dark:bg-violet-900 dark:text-violet-200;
+  }
+  
+  .badge-leadership {
+    @apply bg-pink-100 text-pink-800 dark:bg-pink-900 dark:text-pink-200;
+  }
+  
+  /* Article Meta Styles */
+  .article-meta {
+    @apply flex items-center gap-3 text-sm text-gray-600 dark:text-gray-400;
+  }
+  
+  .article-meta-item {
+    @apply flex items-center gap-1;
+  }
+  
+  /* Reading Progress Bar */
+  .reading-progress {
+    @apply fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-500 to-amber-500 transition-all duration-150 z-50;
+  }
+  
+  /* Enhanced Prose Styles */
+  .prose {
+    @apply max-w-none;
+  }
+  
+  .prose-enhanced {
+    @apply max-w-none;
+  }
+  
+  .prose-enhanced img {
+    @apply rounded-lg shadow-md my-8;
+  }
+  
+  .prose-enhanced pre {
+    @apply rounded-lg p-4 my-6 bg-gray-100 dark:bg-gray-800 overflow-x-auto;
+  }
+  
+  .prose-enhanced code {
+    @apply bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded text-sm;
+  }
+  
+  /* Loading States */
+  .skeleton {
+    @apply animate-pulse bg-gray-200 dark:bg-gray-700 rounded;
+  }
+  
+  .skeleton-text {
+    @apply h-4 bg-gray-200 dark:bg-gray-700 rounded;
+  }
+  
+  .skeleton-title {
+    @apply h-8 bg-gray-200 dark:bg-gray-700 rounded;
+  }
+  
+  /* Gradient Backgrounds */
+  .gradient-warm {
+    background: linear-gradient(135deg, rgb(254 249 195) 0%, rgb(255 237 213) 100%);
+  }
+  
+  .dark .gradient-warm {
+    background: linear-gradient(135deg, rgb(55 65 81) 0%, rgb(75 85 99) 100%);
+  }
+  
+  .gradient-cool {
+    background: linear-gradient(135deg, rgb(219 234 254) 0%, rgb(191 219 254) 100%);
+  }
+  
+  .dark .gradient-cool {
+    background: linear-gradient(135deg, rgb(30 41 59) 0%, rgb(51 65 85) 100%);
+  }
+}

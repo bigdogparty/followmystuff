@@ -1,0 +1,23 @@
+[
+  {
+    "id": "career",
+    "name": "Career",
+    "slug": "career",
+    "description": "Career development, job search strategies, and professional growth",
+    "count": 73
+  },
+  {
+    "id": "wellness",
+    "name": "Wellness",
+    "slug": "wellness",
+    "description": "Health, fitness, and wellness tips for a balanced professional life",
+    "count": 8
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "slug": "finance",
+    "description": "Personal finance, investments, and financial planning",
+    "count": 20
+  }
+]

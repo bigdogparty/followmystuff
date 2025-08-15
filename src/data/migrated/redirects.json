@@ -1,0 +1,862 @@
+[
+  {
+    "source": "/hello-world/",
+    "destination": "/articles/hello-world",
+    "permanent": true
+  },
+  {
+    "source": "/stuff-im-doing-right-now/",
+    "destination": "/articles/stuff-im-doing-right-now",
+    "permanent": true
+  },
+  {
+    "source": "/best-new-books-for-2014/",
+    "destination": "/articles/best-new-books-for-2014",
+    "permanent": true
+  },
+  {
+    "source": "/trying-to-get-a-handle-on-my-yoga-gear/",
+    "destination": "/articles/trying-to-get-a-handle-on-my-yoga-gear",
+    "permanent": true
+  },
+  {
+    "source": "/46-inspirational-quotes-to-start-your-day/",
+    "destination": "/articles/46-inspirational-quotes-to-start-your-day",
+    "permanent": true
+  },
+  {
+    "source": "/running-is-too-hard-try-slowing-down/",
+    "destination": "/articles/running-is-too-hard-try-slowing-down",
+    "permanent": true
+  },
+  {
+    "source": "/best-running-watches-and-how-they-can-enhance-your-workout/",
+    "destination": "/articles/best-running-watches-and-how-they-can-enhance-your-workout",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-play-minecraft-parkour-maps/",
+    "destination": "/articles/how-to-play-minecraft-parkour-maps",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-make-your-computer-run-faster/",
+    "destination": "/articles/how-to-make-your-computer-run-faster",
+    "permanent": true
+  },
+  {
+    "source": "/what-are-the-alternatives-available-to-couchtuner/",
+    "destination": "/articles/what-are-the-alternatives-available-to-couchtuner",
+    "permanent": true
+  },
+  {
+    "source": "/best-alternatives-ccleaner/",
+    "destination": "/articles/best-alternatives-ccleaner",
+    "permanent": true
+  },
+  {
+    "source": "/better-text-formatting-discord/",
+    "destination": "/articles/better-text-formatting-discord",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-throw-an-oscars-party/",
+    "destination": "/articles/how-to-throw-an-oscars-party",
+    "permanent": true
+  },
+  {
+    "source": "/wondering-if-you-are-fit-enough/",
+    "destination": "/articles/wondering-if-you-are-fit-enough",
+    "permanent": true
+  },
+  {
+    "source": "/overtraining-the-question-of-your-fitness/",
+    "destination": "/articles/overtraining-the-question-of-your-fitness",
+    "permanent": true
+  },
+  {
+    "source": "/coming-to-grips-with-heart-disease/",
+    "destination": "/articles/coming-to-grips-with-heart-disease",
+    "permanent": true
+  },
+  {
+    "source": "/seven-cool-ways-to-enhance-your-summer-running-sessions/",
+    "destination": "/articles/seven-cool-ways-to-enhance-your-summer-running-sessions",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-draw-anime/",
+    "destination": "/articles/how-to-draw-anime",
+    "permanent": true
+  },
+  {
+    "source": "/drawing-with-procreate/",
+    "destination": "/articles/drawing-with-procreate",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-use-procreate-for-creatives/",
+    "destination": "/articles/how-to-use-procreate-for-creatives",
+    "permanent": true
+  },
+  {
+    "source": "/should-you-invest-in-bitcoin-in-2022/",
+    "destination": "/articles/should-you-invest-in-bitcoin-in-2022",
+    "permanent": true
+  },
+  {
+    "source": "/how-cryptocurrency-works/",
+    "destination": "/articles/how-cryptocurrency-works",
+    "permanent": true
+  },
+  {
+    "source": "/can-cryptocurrency-make-you-rich/",
+    "destination": "/articles/can-cryptocurrency-make-you-rich",
+    "permanent": true
+  },
+  {
+    "source": "/being-safe-with-cryptocurrency/",
+    "destination": "/articles/being-safe-with-cryptocurrency",
+    "permanent": true
+  },
+  {
+    "source": "/whats-coming-in-2023-for-cryptocurrency/",
+    "destination": "/articles/whats-coming-in-2023-for-cryptocurrency",
+    "permanent": true
+  },
+  {
+    "source": "/about-art-history/",
+    "destination": "/articles/about-art-history",
+    "permanent": true
+  },
+  {
+    "source": "/the-rise-of-plant-based-diets/",
+    "destination": "/articles/the-rise-of-plant-based-diets",
+    "permanent": true
+  },
+  {
+    "source": "/pillar-wallet-launches-new-features-for-improved-security-and-cross-chain-functionality/",
+    "destination": "/articles/pillar-wallet-launches-new-features-for-improved-security-and-cross-chain-functionality",
+    "permanent": true
+  },
+  {
+    "source": "/the-rise-of-nft-art-how-digital-artists-are-revolutionizing-the-art-world/",
+    "destination": "/articles/the-rise-of-nft-art-how-digital-artists-are-revolutionizing-the-art-world",
+    "permanent": true
+  },
+  {
+    "source": "/from-graffiti-to-galleries-the-evolution-of-street-art/",
+    "destination": "/articles/from-graffiti-to-galleries-the-evolution-of-street-art",
+    "permanent": true
+  },
+  {
+    "source": "/the-possibilities-of-pixels-the-beauty-and-power-of-digital-art/",
+    "destination": "/articles/the-possibilities-of-pixels-the-beauty-and-power-of-digital-art",
+    "permanent": true
+  },
+  {
+    "source": "/embracing-diversity-in-art-a-call-to-action-for-inclusion/",
+    "destination": "/articles/embracing-diversity-in-art-a-call-to-action-for-inclusion",
+    "permanent": true
+  },
+  {
+    "source": "/exploring-environmental-art-incorporating-sustainability-into-the-art-world/",
+    "destination": "/articles/exploring-environmental-art-incorporating-sustainability-into-the-art-world",
+    "permanent": true
+  },
+  {
+    "source": "/the-power-of-generative-ai-exploring-its-capabilities-and-implications/",
+    "destination": "/articles/the-power-of-generative-ai-exploring-its-capabilities-and-implications",
+    "permanent": true
+  },
+  {
+    "source": "/double-down-on-your-wins-with-these-blackjack-tips/",
+    "destination": "/articles/double-down-on-your-wins-with-these-blackjack-tips",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-count-cards-in-blackjack-and-win-big/",
+    "destination": "/articles/how-to-count-cards-in-blackjack-and-win-big",
+    "permanent": true
+  },
+  {
+    "source": "/top-5-blackjack-strategies-to-beat-the-house/",
+    "destination": "/articles/top-5-blackjack-strategies-to-beat-the-house",
+    "permanent": true
+  },
+  {
+    "source": "/sushi-more-than-just-raw-fish/",
+    "destination": "/articles/sushi-more-than-just-raw-fish",
+    "permanent": true
+  },
+  {
+    "source": "/a-beginners-guide-to-sushi-how-to-choose-eat-and-enjoy/",
+    "destination": "/articles/a-beginners-guide-to-sushi-how-to-choose-eat-and-enjoy",
+    "permanent": true
+  },
+  {
+    "source": "/sushi-101-the-evolution-and-history-of-sushi/",
+    "destination": "/articles/sushi-101-the-evolution-and-history-of-sushi",
+    "permanent": true
+  },
+  {
+    "source": "/sushi-varieties-exploring-the-many-different-types-of-sushi/",
+    "destination": "/articles/sushi-varieties-exploring-the-many-different-types-of-sushi",
+    "permanent": true
+  },
+  {
+    "source": "/sushi-etiquette-dos-and-donts-at-the-sushi-restaurant/",
+    "destination": "/articles/sushi-etiquette-dos-and-donts-at-the-sushi-restaurant",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-make-sushi-at-home-tips-tricks-and-essential-tools/",
+    "destination": "/articles/how-to-make-sushi-at-home-tips-tricks-and-essential-tools",
+    "permanent": true
+  },
+  {
+    "source": "/the-influence-of-renaissance-art-on-modern-day-art/",
+    "destination": "/articles/the-influence-of-renaissance-art-on-modern-day-art",
+    "permanent": true
+  },
+  {
+    "source": "/the-importance-of-art-education-in-schools/",
+    "destination": "/articles/the-importance-of-art-education-in-schools",
+    "permanent": true
+  },
+  {
+    "source": "/the-role-of-art-in-cultural-preservation/",
+    "destination": "/articles/the-role-of-art-in-cultural-preservation",
+    "permanent": true
+  },
+  {
+    "source": "/the-use-of-color-in-contemporary-art/",
+    "destination": "/articles/the-use-of-color-in-contemporary-art",
+    "permanent": true
+  },
+  {
+    "source": "/the-impact-of-technology-on-art-and-design/",
+    "destination": "/articles/the-impact-of-technology-on-art-and-design",
+    "permanent": true
+  },
+  {
+    "source": "/the-best-running-gear-for-beginners/",
+    "destination": "/articles/the-best-running-gear-for-beginners",
+    "permanent": true
+  },
+  {
+    "source": "/the-anatomy-of-a-perfect-running-shoe/",
+    "destination": "/articles/the-anatomy-of-a-perfect-running-shoe",
+    "permanent": true
+  },
+  {
+    "source": "/the-best-foods-for-runners-a-comprehensive-guide/",
+    "destination": "/articles/the-best-foods-for-runners-a-comprehensive-guide",
+    "permanent": true
+  },
+  {
+    "source": "/top-10-in-demand-jobs-for-2023/",
+    "destination": "/articles/top-10-in-demand-jobs-for-2023",
+    "permanent": true
+  },
+  {
+    "source": "/the-dos-and-donts-of-resume-writing/",
+    "destination": "/articles/the-dos-and-donts-of-resume-writing",
+    "permanent": true
+  },
+  {
+    "source": "/tips-for-acing-your-next-job-interview/",
+    "destination": "/articles/tips-for-acing-your-next-job-interview",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-build-a-professional-network-that-works-for-you/",
+    "destination": "/articles/how-to-build-a-professional-network-that-works-for-you",
+    "permanent": true
+  },
+  {
+    "source": "/top-5-most-important-professional-skills-to-develop/",
+    "destination": "/articles/top-5-most-important-professional-skills-to-develop",
+    "permanent": true
+  },
+  {
+    "source": "/a-day-in-the-life-of-a-successful-entrepreneur/",
+    "destination": "/articles/a-day-in-the-life-of-a-successful-entrepreneur",
+    "permanent": true
+  },
+  {
+    "source": "/5-ways-to-stand-out-in-a-competitive-job-market/",
+    "destination": "/articles/5-ways-to-stand-out-in-a-competitive-job-market",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-negotiate-your-salary-like-a-pro/",
+    "destination": "/articles/how-to-negotiate-your-salary-like-a-pro",
+    "permanent": true
+  },
+  {
+    "source": "/what-recruiters-really-look-for-in-a-candidate/",
+    "destination": "/articles/what-recruiters-really-look-for-in-a-candidate",
+    "permanent": true
+  },
+  {
+    "source": "/common-job-interview-questions-and-how-to-answer-them/",
+    "destination": "/articles/common-job-interview-questions-and-how-to-answer-them",
+    "permanent": true
+  },
+  {
+    "source": "/5-communication-techniques-to-strengthen-your-relationship/",
+    "destination": "/articles/5-communication-techniques-to-strengthen-your-relationship",
+    "permanent": true
+  },
+  {
+    "source": "/dating-in-the-digital-age-pros-and-cons-of-online-dating/",
+    "destination": "/articles/dating-in-the-digital-age-pros-and-cons-of-online-dating",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-make-a-long-distance-relationship-work-tips-and-advice/",
+    "destination": "/articles/how-to-make-a-long-distance-relationship-work-tips-and-advice",
+    "permanent": true
+  },
+  {
+    "source": "/the-science-of-love-what-happens-to-our-bodies-when-were-in-love/",
+    "destination": "/articles/the-science-of-love-what-happens-to-our-bodies-when-were-in-love",
+    "permanent": true
+  },
+  {
+    "source": "/building-healthy-family-relationships-tips-for-positive-communication/",
+    "destination": "/articles/building-healthy-family-relationships-tips-for-positive-communication",
+    "permanent": true
+  },
+  {
+    "source": "/10-creative-date-ideas-to-spice-up-your-relationship/",
+    "destination": "/articles/10-creative-date-ideas-to-spice-up-your-relationship",
+    "permanent": true
+  },
+  {
+    "source": "/from-friends-to-lovers-is-it-possible-to-turn-a-friendship-into-a-romantic-relationship/",
+    "destination": "/articles/from-friends-to-lovers-is-it-possible-to-turn-a-friendship-into-a-romantic-relationship",
+    "permanent": true
+  },
+  {
+    "source": "/when-to-say-i-love-you-signs-that-your-relationship-is-ready-for-that-next-step/",
+    "destination": "/articles/when-to-say-i-love-you-signs-that-your-relationship-is-ready-for-that-next-step",
+    "permanent": true
+  },
+  {
+    "source": "/breaking-up-is-hard-to-do-tips-for-coping-with-a-painful-breakup/",
+    "destination": "/articles/breaking-up-is-hard-to-do-tips-for-coping-with-a-painful-breakup",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-handle-relationship-conflict-strategies-for-resolving-disagreements/",
+    "destination": "/articles/how-to-handle-relationship-conflict-strategies-for-resolving-disagreements",
+    "permanent": true
+  },
+  {
+    "source": "/the-dos-and-donts-of-sexting-tips-for-safe-and-sexy-messaging/",
+    "destination": "/articles/the-dos-and-donts-of-sexting-tips-for-safe-and-sexy-messaging",
+    "permanent": true
+  },
+  {
+    "source": "/the-benefits-of-a-supportive-partner-how-your-relationship-can-boost-your-mental-health/",
+    "destination": "/articles/the-benefits-of-a-supportive-partner-how-your-relationship-can-boost-your-mental-health",
+    "permanent": true
+  },
+  {
+    "source": "/coping-with-a-partners-mental-illness-advice-for-supporting-your-loved-one/",
+    "destination": "/articles/coping-with-a-partners-mental-illness-advice-for-supporting-your-loved-one",
+    "permanent": true
+  },
+  {
+    "source": "/the-role-of-forgiveness-in-relationships-how-to-move-forward-after-a-betrayal/",
+    "destination": "/articles/the-role-of-forgiveness-in-relationships-how-to-move-forward-after-a-betrayal",
+    "permanent": true
+  },
+  {
+    "source": "/balancing-independence-and-intimacy-in-your-relationship-tips-for-maintaining-a-healthy-connection/",
+    "destination": "/articles/balancing-independence-and-intimacy-in-your-relationship-tips-for-maintaining-a-healthy-connection",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-build-stronger-friendships-strategies-for-nurturing-meaningful-connections/",
+    "destination": "/articles/how-to-build-stronger-friendships-strategies-for-nurturing-meaningful-connections",
+    "permanent": true
+  },
+  {
+    "source": "/healthy-boundaries-in-relationships-why-theyre-important-and-how-to-set-them/",
+    "destination": "/articles/healthy-boundaries-in-relationships-why-theyre-important-and-how-to-set-them",
+    "permanent": true
+  },
+  {
+    "source": "/10-must-see-art-galleries-around-the-world/",
+    "destination": "/articles/10-must-see-art-galleries-around-the-world",
+    "permanent": true
+  },
+  {
+    "source": "/an-artists-guide-to-choosing-the-right-paintbrushes/",
+    "destination": "/articles/an-artists-guide-to-choosing-the-right-paintbrushes",
+    "permanent": true
+  },
+  {
+    "source": "/the-history-and-evolution-of-abstract-art/",
+    "destination": "/articles/the-history-and-evolution-of-abstract-art",
+    "permanent": true
+  },
+  {
+    "source": "/5-emerging-art-styles-to-watch-out-for/",
+    "destination": "/articles/5-emerging-art-styles-to-watch-out-for",
+    "permanent": true
+  },
+  {
+    "source": "/why-is-personal-finance-dependent-upon-your-behavior/",
+    "destination": "/articles/why-is-personal-finance-dependent-upon-your-behavior",
+    "permanent": true
+  },
+  {
+    "source": "/a-beginners-guide-to-watercolor-painting/",
+    "destination": "/articles/a-beginners-guide-to-watercolor-painting",
+    "permanent": true
+  },
+  {
+    "source": "/10-most-famous-artworks-of-the-21st-century/",
+    "destination": "/articles/10-most-famous-artworks-of-the-21st-century",
+    "permanent": true
+  },
+  {
+    "source": "/a-deep-dive-into-the-world-of-street-art-exploring-graffiti-and-murals/",
+    "destination": "/articles/a-deep-dive-into-the-world-of-street-art-exploring-graffiti-and-murals",
+    "permanent": true
+  },
+  {
+    "source": "/the-art-of-printmaking-techniques-and-styles/",
+    "destination": "/articles/the-art-of-printmaking-techniques-and-styles",
+    "permanent": true
+  },
+  {
+    "source": "/the-rise-of-digital-art-exploring-new-forms-of-expression/",
+    "destination": "/articles/the-rise-of-digital-art-exploring-new-forms-of-expression",
+    "permanent": true
+  },
+  {
+    "source": "/exploring-journey-of-fresh-produce/",
+    "destination": "/articles/exploring-journey-of-fresh-produce",
+    "permanent": true
+  },
+  {
+    "source": "/mastering-the-art-of-homemade-pasta-a-step-by-step-guide/",
+    "destination": "/articles/mastering-the-art-of-homemade-pasta-a-step-by-step-guide",
+    "permanent": true
+  },
+  {
+    "source": "/culinary-exploration-of-food-and-nostalgia/",
+    "destination": "/articles/culinary-exploration-of-food-and-nostalgia",
+    "permanent": true
+  },
+  {
+    "source": "/elevate-your-cooking-with-essential-herbs-and-spices/",
+    "destination": "/articles/elevate-your-cooking-with-essential-herbs-and-spices",
+    "permanent": true
+  },
+  {
+    "source": "/taste-the-world-unveiling-international-food-trends/",
+    "destination": "/articles/taste-the-world-unveiling-international-food-trends",
+    "permanent": true
+  },
+  {
+    "source": "/the-rise-of-plant-based-cuisine-beyond-tofu-and-kale/",
+    "destination": "/articles/the-rise-of-plant-based-cuisine-beyond-tofu-and-kale",
+    "permanent": true
+  },
+  {
+    "source": "/delicious-dishes-under-30-minutes-quick-and-flavorful-recipes/",
+    "destination": "/articles/delicious-dishes-under-30-minutes-quick-and-flavorful-recipes",
+    "permanent": true
+  },
+  {
+    "source": "/foodgasm-alert-indulging-in-decadent-dessert-destinations/",
+    "destination": "/articles/foodgasm-alert-indulging-in-decadent-dessert-destinations",
+    "permanent": true
+  },
+  {
+    "source": "/exploring-umami/",
+    "destination": "/articles/exploring-umami",
+    "permanent": true
+  },
+  {
+    "source": "/umami-fries-a-taste-explosion/",
+    "destination": "/articles/umami-fries-a-taste-explosion",
+    "permanent": true
+  },
+  {
+    "source": "/kitchen-alchemy-transforming-leftovers-into-gourmet-delights/",
+    "destination": "/articles/kitchen-alchemy-transforming-leftovers-into-gourmet-delights",
+    "permanent": true
+  },
+  {
+    "source": "/exploring-pencil-shades-the-impact-of-using-different-pencil-grades/",
+    "destination": "/articles/exploring-pencil-shades-the-impact-of-using-different-pencil-grades",
+    "permanent": true
+  },
+  {
+    "source": "/masterful-inking-techniques-to-elevate-your-pen-drawings/",
+    "destination": "/articles/masterful-inking-techniques-to-elevate-your-pen-drawings",
+    "permanent": true
+  },
+  {
+    "source": "/mastering-cryptocurrency-risk-management-a-guide-for-investors/",
+    "destination": "/articles/mastering-cryptocurrency-risk-management-a-guide-for-investors",
+    "permanent": true
+  },
+  {
+    "source": "/tools-and-techniques-for-managing-cryptocurrency-risks-effectively/",
+    "destination": "/articles/tools-and-techniques-for-managing-cryptocurrency-risks-effectively",
+    "permanent": true
+  },
+  {
+    "source": "/bitcoin-in-2023-an-expert-forecast-and-analysis/",
+    "destination": "/articles/bitcoin-in-2023-an-expert-forecast-and-analysis",
+    "permanent": true
+  },
+  {
+    "source": "/will-bitcoin-cash-surpass-bitcoin-a-comprehensive-forecast/",
+    "destination": "/articles/will-bitcoin-cash-surpass-bitcoin-a-comprehensive-forecast",
+    "permanent": true
+  },
+  {
+    "source": "/tapping-into-the-hive-mind-cryptocurrency-investment-tips-from-reddit/",
+    "destination": "/articles/tapping-into-the-hive-mind-cryptocurrency-investment-tips-from-reddit",
+    "permanent": true
+  },
+  {
+    "source": "/cryptocurrency-the-future-of-finance-10-reasons-to-consider-investing/",
+    "destination": "/articles/cryptocurrency-the-future-of-finance-10-reasons-to-consider-investing",
+    "permanent": true
+  },
+  {
+    "source": "/beyond-cryptocurrency-diverse-applications-of-blockchain-across-industries/",
+    "destination": "/articles/beyond-cryptocurrency-diverse-applications-of-blockchain-across-industries",
+    "permanent": true
+  },
+  {
+    "source": "/the-science-of-security-understanding-hashing-in-blockchain-technology/",
+    "destination": "/articles/the-science-of-security-understanding-hashing-in-blockchain-technology",
+    "permanent": true
+  },
+  {
+    "source": "/blockchains-triple-threat-the-top-three-advantages-you-should-know-about/",
+    "destination": "/articles/blockchains-triple-threat-the-top-three-advantages-you-should-know-about",
+    "permanent": true
+  },
+  {
+    "source": "/blockchain-in-the-modern-world-unpacking-its-multifaceted-benefits/",
+    "destination": "/articles/blockchain-in-the-modern-world-unpacking-its-multifaceted-benefits",
+    "permanent": true
+  },
+  {
+    "source": "/redefining-supply-chain-finance-the-role-of-blockchain-technology/",
+    "destination": "/articles/redefining-supply-chain-finance-the-role-of-blockchain-technology",
+    "permanent": true
+  },
+  {
+    "source": "/decoding-everfi-the-mission-and-purpose-of-blockchain-in-modern-tech/",
+    "destination": "/articles/decoding-everfi-the-mission-and-purpose-of-blockchain-in-modern-tech",
+    "permanent": true
+  },
+  {
+    "source": "/resume-writing-101-launching-your-job/",
+    "destination": "/articles/resume-writing-101-launching-your-job",
+    "permanent": true
+  },
+  {
+    "source": "/what-to-expect-resume-writing-workshop/",
+    "destination": "/articles/what-to-expect-resume-writing-workshop",
+    "permanent": true
+  },
+  {
+    "source": "/showcasing-your-skills-building-a-technical-writing-resume/",
+    "destination": "/articles/showcasing-your-skills-building-a-technical-writing-resume",
+    "permanent": true
+  },
+  {
+    "source": "/crafting-a-stellar-resume-your-ticket-to-job-interview-invitations/",
+    "destination": "/articles/crafting-a-stellar-resume-your-ticket-to-job-interview-invitations",
+    "permanent": true
+  },
+  {
+    "source": "/the-modern-resume-adapting-to-the-digital-job-market/",
+    "destination": "/articles/the-modern-resume-adapting-to-the-digital-job-market",
+    "permanent": true
+  },
+  {
+    "source": "/resume-layout-making-the-most-of-one-page/",
+    "destination": "/articles/resume-layout-making-the-most-of-one-page",
+    "permanent": true
+  },
+  {
+    "source": "/optimizing-your-resume-for-ats-systems/",
+    "destination": "/articles/optimizing-your-resume-for-ats-systems",
+    "permanent": true
+  },
+  {
+    "source": "/college-to-career-resume-post-graduation/",
+    "destination": "/articles/college-to-career-resume-post-graduation",
+    "permanent": true
+  },
+  {
+    "source": "/professional-summary-resume-elevator-pitch/",
+    "destination": "/articles/professional-summary-resume-elevator-pitch",
+    "permanent": true
+  },
+  {
+    "source": "/action-verbs-for-resume-success/",
+    "destination": "/articles/action-verbs-for-resume-success",
+    "permanent": true
+  },
+  {
+    "source": "/bridging-the-gap-addressing-employment-gaps-in-your-resume/",
+    "destination": "/articles/bridging-the-gap-addressing-employment-gaps-in-your-resume",
+    "permanent": true
+  },
+  {
+    "source": "/tailored-resume-for-dream-job/",
+    "destination": "/articles/tailored-resume-for-dream-job",
+    "permanent": true
+  },
+  {
+    "source": "/visual-resumes-showcasing-your-skills/",
+    "destination": "/articles/visual-resumes-showcasing-your-skills",
+    "permanent": true
+  },
+  {
+    "source": "/c-suite-strategies-for-executive-interview-preparation/",
+    "destination": "/articles/c-suite-strategies-for-executive-interview-preparation",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-prepare-for-a-screening-interview/",
+    "destination": "/articles/how-to-prepare-for-a-screening-interview",
+    "permanent": true
+  },
+  {
+    "source": "/the-preparation-paradox-can-you-over-prepare-for-an-interview/",
+    "destination": "/articles/the-preparation-paradox-can-you-over-prepare-for-an-interview",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-prepare-for-an-internship-interview/",
+    "destination": "/articles/how-to-prepare-for-an-internship-interview",
+    "permanent": true
+  },
+  {
+    "source": "/preparing-for-a-second-interview/",
+    "destination": "/articles/preparing-for-a-second-interview",
+    "permanent": true
+  },
+  {
+    "source": "/remote-interview-preparation/",
+    "destination": "/articles/remote-interview-preparation",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-grow-your-linkedin-network/",
+    "destination": "/articles/how-to-grow-your-linkedin-network",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-network-with-recruiters-on-linkedin/",
+    "destination": "/articles/how-to-network-with-recruiters-on-linkedin",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-improve-networking-skills/",
+    "destination": "/articles/how-to-improve-networking-skills",
+    "permanent": true
+  },
+  {
+    "source": "/largest-alumni-network/",
+    "destination": "/articles/largest-alumni-network",
+    "permanent": true
+  },
+  {
+    "source": "/online-networking-events/",
+    "destination": "/articles/online-networking-events",
+    "permanent": true
+  },
+  {
+    "source": "/music-industry-networking-events/",
+    "destination": "/articles/music-industry-networking-events",
+    "permanent": true
+  },
+  {
+    "source": "/another-word-for-networking-in-business-schmoozing-101/",
+    "destination": "/articles/another-word-for-networking-in-business-schmoozing-101",
+    "permanent": true
+  },
+  {
+    "source": "/important-thing-about-meeting-new-contacts/",
+    "destination": "/articles/important-thing-about-meeting-new-contacts",
+    "permanent": true
+  },
+  {
+    "source": "/professional-networking-sites-for-jobs-like-dating-apps-but-for-unemployment/",
+    "destination": "/articles/professional-networking-sites-for-jobs-like-dating-apps-but-for-unemployment",
+    "permanent": true
+  },
+  {
+    "source": "/virtual-networking-tips-how-to-be-virtually-less-awkward/",
+    "destination": "/articles/virtual-networking-tips-how-to-be-virtually-less-awkward",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-network-at-events/",
+    "destination": "/articles/how-to-network-at-events",
+    "permanent": true
+  },
+  {
+    "source": "/networking-for-young-professionals-tiktok-your-way-to-corporate-glory/",
+    "destination": "/articles/networking-for-young-professionals-tiktok-your-way-to-corporate-glory",
+    "permanent": true
+  },
+  {
+    "source": "/networking-for-introverts-how-to-mingle-without-actually-mingling/",
+    "destination": "/articles/networking-for-introverts-how-to-mingle-without-actually-mingling",
+    "permanent": true
+  },
+  {
+    "source": "/networking-strategies-like-chess-but-with-more-business-cards-and-less-talent/",
+    "destination": "/articles/networking-strategies-like-chess-but-with-more-business-cards-and-less-talent",
+    "permanent": true
+  },
+  {
+    "source": "/what-to-do-at-a-networking-event-besides-stare-at-your-phone/",
+    "destination": "/articles/what-to-do-at-a-networking-event-besides-stare-at-your-phone",
+    "permanent": true
+  },
+  {
+    "source": "/in-person-networking-making-connections-the-old-fashioned-way-sans-swipe/",
+    "destination": "/articles/in-person-networking-making-connections-the-old-fashioned-way-sans-swipe",
+    "permanent": true
+  },
+  {
+    "source": "/interview-preparation-checklist/",
+    "destination": "/articles/interview-preparation-checklist",
+    "permanent": true
+  },
+  {
+    "source": "/camera-ready-how-to-prepare-for-a-video-interview/",
+    "destination": "/articles/camera-ready-how-to-prepare-for-a-video-interview",
+    "permanent": true
+  },
+  {
+    "source": "/q-a-ready-preparing-for-job-interview-questions-and-answers/",
+    "destination": "/articles/q-a-ready-preparing-for-job-interview-questions-and-answers",
+    "permanent": true
+  },
+  {
+    "source": "/panel-prep-navigating-a-panel-interview-successfully/",
+    "destination": "/articles/panel-prep-navigating-a-panel-interview-successfully",
+    "permanent": true
+  },
+  {
+    "source": "/successful-phone-screen-interview/",
+    "destination": "/articles/successful-phone-screen-interview",
+    "permanent": true
+  },
+  {
+    "source": "/mastering-behavioral-interview-preparation/",
+    "destination": "/articles/mastering-behavioral-interview-preparation",
+    "permanent": true
+  },
+  {
+    "source": "/standing-out-in-a-group-interview/",
+    "destination": "/articles/standing-out-in-a-group-interview",
+    "permanent": true
+  },
+  {
+    "source": "/guide-to-technical-interview-preparation/",
+    "destination": "/articles/guide-to-technical-interview-preparation",
+    "permanent": true
+  },
+  {
+    "source": "/blockchain-in-personal-banking/",
+    "destination": "/articles/blockchain-in-personal-banking",
+    "permanent": true
+  },
+  {
+    "source": "/personal-re-branding-a-guide-to-reinventing-yourself/",
+    "destination": "/articles/personal-re-branding-a-guide-to-reinventing-yourself",
+    "permanent": true
+  },
+  {
+    "source": "/effective-job-search-strategies/",
+    "destination": "/articles/effective-job-search-strategies",
+    "permanent": true
+  },
+  {
+    "source": "/crafting-a-resume-that-doesnt-put-recruiters-to-sleep-tips-and-tricks/",
+    "destination": "/articles/crafting-a-resume-that-doesnt-put-recruiters-to-sleep-tips-and-tricks",
+    "permanent": true
+  },
+  {
+    "source": "/cover-letters-the-secret-sauce-to-landing-your-dream-job/",
+    "destination": "/articles/cover-letters-the-secret-sauce-to-landing-your-dream-job",
+    "permanent": true
+  },
+  {
+    "source": "/mastering-workplace-communication/",
+    "destination": "/articles/mastering-workplace-communication",
+    "permanent": true
+  },
+  {
+    "source": "/networking-ninja-strategies-for-job-seekers/",
+    "destination": "/articles/networking-ninja-strategies-for-job-seekers",
+    "permanent": true
+  },
+  {
+    "source": "/personalized-career-development-plan/",
+    "destination": "/articles/personalized-career-development-plan",
+    "permanent": true
+  },
+  {
+    "source": "/leadership-in-the-making-developing-the-qualities-of-an-effective-leader/",
+    "destination": "/articles/leadership-in-the-making-developing-the-qualities-of-an-effective-leader",
+    "permanent": true
+  },
+  {
+    "source": "/the-art-of-self-promotion-marketing-your-skills-for-career-progress/",
+    "destination": "/articles/the-art-of-self-promotion-marketing-your-skills-for-career-progress",
+    "permanent": true
+  },
+  {
+    "source": "/striking-a-work-life-balance-achieving-career-success-without-burnout/",
+    "destination": "/articles/striking-a-work-life-balance-achieving-career-success-without-burnout",
+    "permanent": true
+  },
+  {
+    "source": "/advancing-within-your-current-company/",
+    "destination": "/articles/advancing-within-your-current-company",
+    "permanent": true
+  },
+  {
+    "source": "/unleash-the-power-of-online-job-search-tools/",
+    "destination": "/articles/unleash-the-power-of-online-job-search-tools",
+    "permanent": true
+  },
+  {
+    "source": "/career-change-101/",
+    "destination": "/articles/career-change-101",
+    "permanent": true
+  },
+  {
+    "source": "/pajamas-welcome-your-guide-to-thriving-in-remote-job-opportunities/",
+    "destination": "/articles/pajamas-welcome-your-guide-to-thriving-in-remote-job-opportunities",
+    "permanent": true
+  },
+  {
+    "source": "/job-fair-jedi-mastering-the-art-of-making-a-lasting-impression/",
+    "destination": "/articles/job-fair-jedi-mastering-the-art-of-making-a-lasting-impression",
+    "permanent": true
+  }
+]
