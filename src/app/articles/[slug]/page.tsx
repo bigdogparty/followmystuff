@@ -4,7 +4,7 @@ import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
 import { Breadcrumbs } from '@/components/ui/Breadcrumbs'
 import { ArticleHeader } from '@/components/features/article/ArticleHeader'
-import { ArticleContent } from '@/components/features/article/ArticleContent'
+import { EnhancedArticleContent } from '@/components/features/article/EnhancedArticleContent'
 import { AuthorBio } from '@/components/features/article/AuthorBio'
 import { RelatedArticles } from '@/components/features/article/RelatedArticles'
 import { StructuredData } from '@/components/features/article/StructuredData'
@@ -94,8 +94,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <ArticleHeader article={article} />
 
           {/* Article Content */}
-          <ArticleContent 
+          <EnhancedArticleContent 
             content={article.content}
+            slug={article.slug}
             className="mb-12"
           />
 

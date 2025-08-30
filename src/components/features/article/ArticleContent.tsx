@@ -61,8 +61,8 @@ export function ArticleContent({ content, className = '' }: ArticleContentProps)
     return () => window.removeEventListener('scroll', updateReadingProgress)
   }, [])
 
-  // Show loading state or raw content until sanitized
-  if (!sanitizedContent && typeof window !== 'undefined') {
+  // Show loading state while sanitizing
+  if (!sanitizedContent) {
     return (
       <div ref={contentRef} className={`prose-enhanced max-w-none ${className}`}>
         <div className="animate-pulse">
@@ -72,11 +72,6 @@ export function ArticleContent({ content, className = '' }: ArticleContentProps)
         </div>
       </div>
     )
-  }
-
-  // Only render sanitized content
-  if (!sanitizedContent) {
-    return null
   }
 
   return (
