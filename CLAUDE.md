@@ -51,10 +51,45 @@ npm run export         # Build and export static site
 
 ## Content Management Workflow
 
-### Adding New Articles
-1. Articles are currently stored as JSON in `src/data/migrated/articles.json`
-2. Each article requires: title, slug, excerpt, content, categories, tags, and SEO metadata
-3. Images should be placed in `public/images/articles/` and referenced by filename
+### Article Storage System
+**IMPORTANT**: All articles are stored in a single JSON file at `src/data/migrated/articles.json`. This is the source of truth for all content. The system reads directly from this JSON file at runtime.
+
+### Adding New Articles (2025 and Beyond)
+1. **Write the article** in your preferred format (Markdown, Google Docs, etc.)
+2. **Convert to JSON format** matching the existing structure in `articles.json`
+3. **Add to articles.json** at the beginning of the array (newest first)
+4. **Required fields** for each article:
+   - `title`: Article headline
+   - `slug`: URL-friendly version (lowercase, hyphens)
+   - `excerpt`: Short description (150-200 chars)
+   - `content`: HTML-formatted content (use `<p>`, `<h2>`, `<h3>`, `<ul>`, `<ol>`, `<strong>`, etc.)
+   - `author`: Object with id, name, bio, avatar
+   - `publishedAt`: Date string (format: "2025-09-04 10:00:00")
+   - `updatedAt`: Date string (usually same as publishedAt for new articles)
+   - `featuredImage`: Path to image (e.g., "/images/articles/filename.jpg")
+   - `categories`: Array of category objects with id, name, slug
+   - `tags`: Array of tag objects with id, name, slug
+   - `readingTime`: Estimated minutes to read
+   - `seo`: Object with metaTitle, metaDescription, focusKeyword, canonicalUrl
+   - `isCareerFocused`: Boolean (true for career content)
+
+### Content Calendar
+- **Location**: `src/data/content-calendar-2025.json` contains the editorial calendar
+- **Planning**: One article per week for Q4 2025
+- **Brand Guide**: Follow tone and style from `ref/FOLLOW-MY-STUFF-BRAND-GUIDE.md`
+
+### Converting Markdown to JSON
+When adding a new article:
+1. Write content following brand voice (witty, practical, honest)
+2. Convert Markdown headers to HTML tags:
+   - `#` → Skip (use article title in JSON)
+   - `##` → `<h2>`
+   - `###` → `<h3>`
+   - Lists → `<ul>` or `<ol>` with `<li>`
+   - Bold → `<strong>`
+   - Links → `<a href="">`
+3. Use the script at `scripts/add-new-article.js` as a template
+4. Ensure proper escaping of quotes in JSON
 
 ### Migration from WordPress
 The project includes migration scripts to import content from WordPress:

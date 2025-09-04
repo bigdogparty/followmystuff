@@ -1,0 +1,189 @@
+{
+  "contentCalendar": {
+    "year": 2025,
+    "quarter": "Q4",
+    "articles": [
+      {
+        "week": "September 1-7",
+        "publishDate": "2025-09-04",
+        "title": "Top 5 AI Skills Everyone Should Master for Their Next Job Search",
+        "slug": "top-5-ai-skills-for-job-search",
+        "category": "Career Development",
+        "tags": ["AI", "Job Search", "Skills", "Technology", "Career Advancement"],
+        "excerpt": "Discover the essential AI skills that will make you stand out in 2025's competitive job market",
+        "status": "planned",
+        "outline": {
+          "introduction": "Why AI skills are no longer optional",
+          "skills": [
+            "Prompt Engineering for Productivity",
+            "AI-Assisted Content Creation",
+            "Data Analysis with AI Tools",
+            "AI Ethics and Responsible Use",
+            "Automating Workflows with AI"
+          ],
+          "conclusion": "Getting started with your AI learning journey"
+        }
+      },
+      {
+        "week": "September 8-14",
+        "publishDate": "2025-09-11",
+        "title": "The Hidden Cost of Job Hopping: When to Stay vs. When to Go",
+        "slug": "hidden-cost-of-job-hopping",
+        "category": "Career Strategy",
+        "tags": ["Job Change", "Career Planning", "Professional Growth", "Decision Making"],
+        "excerpt": "Learn the real financial and career implications of frequent job changes in today's market",
+        "status": "planned"
+      },
+      {
+        "week": "September 15-21",
+        "publishDate": "2025-09-18",
+        "title": "Remote Work Negotiation: Getting the Flexibility You Deserve",
+        "slug": "remote-work-negotiation-guide",
+        "category": "Workplace Culture",
+        "tags": ["Remote Work", "Negotiation", "Work-Life Balance", "Flexibility"],
+        "excerpt": "Master the art of negotiating remote work arrangements that benefit both you and your employer",
+        "status": "planned"
+      },
+      {
+        "week": "September 22-28",
+        "publishDate": "2025-09-25",
+        "title": "Building Your Personal Board of Directors: Strategic Career Mentorship",
+        "slug": "personal-board-of-directors",
+        "category": "Professional Development",
+        "tags": ["Mentorship", "Networking", "Career Guidance", "Leadership"],
+        "excerpt": "Create a powerful network of advisors to guide your career decisions and growth",
+        "status": "planned"
+      },
+      {
+        "week": "September 29 - October 5",
+        "publishDate": "2025-10-02",
+        "title": "The 4-Day Work Week: How to Pitch It to Your Boss",
+        "slug": "four-day-work-week-pitch",
+        "category": "Workplace Culture",
+        "tags": ["Work-Life Balance", "Productivity", "Innovation", "Future of Work"],
+        "excerpt": "A data-driven approach to proposing and implementing a compressed work schedule",
+        "status": "planned"
+      },
+      {
+        "week": "October 6-12",
+        "publishDate": "2025-10-09",
+        "title": "Salary Transparency: Using New Laws to Your Advantage",
+        "slug": "salary-transparency-advantage",
+        "category": "Career Strategy",
+        "tags": ["Salary", "Negotiation", "Legal Rights", "Compensation"],
+        "excerpt": "Navigate salary transparency laws to maximize your earning potential",
+        "status": "planned"
+      },
+      {
+        "week": "October 13-19",
+        "publishDate": "2025-10-16",
+        "title": "The Introvert's Guide to Networking Events That Don't Suck",
+        "slug": "introvert-networking-guide",
+        "category": "Professional Development",
+        "tags": ["Networking", "Introverts", "Social Skills", "Career Growth"],
+        "excerpt": "Practical strategies for making meaningful connections without the exhaustion",
+        "status": "planned"
+      },
+      {
+        "week": "October 20-26",
+        "publishDate": "2025-10-23",
+        "title": "Side Hustle to Main Gig: When and How to Make the Leap",
+        "slug": "side-hustle-to-main-gig",
+        "category": "Career Development",
+        "tags": ["Entrepreneurship", "Side Hustle", "Career Transition", "Risk Management"],
+        "excerpt": "Know when your side project is ready to become your full-time focus",
+        "status": "planned"
+      },
+      {
+        "week": "October 27 - November 2",
+        "publishDate": "2025-10-30",
+        "title": "Performance Review Hacks: Turn Feedback into Promotions",
+        "slug": "performance-review-hacks",
+        "category": "Career Strategy",
+        "tags": ["Performance Reviews", "Promotions", "Feedback", "Career Advancement"],
+        "excerpt": "Transform your annual review from a formality into a career catalyst",
+        "status": "planned"
+      },
+      {
+        "week": "November 3-9",
+        "publishDate": "2025-11-06",
+        "title": "The Art of the Strategic 'No': Protecting Your Time and Energy",
+        "slug": "strategic-no-boundaries",
+        "category": "Workplace Culture",
+        "tags": ["Boundaries", "Time Management", "Productivity", "Work-Life Balance"],
+        "excerpt": "Master the skill of declining requests while advancing your career",
+        "status": "planned"
+      },
+      {
+        "week": "November 10-16",
+        "publishDate": "2025-11-13",
+        "title": "LinkedIn Makeover: Profile Tips That Actually Get You Noticed",
+        "slug": "linkedin-makeover-guide",
+        "category": "Job Search",
+        "tags": ["LinkedIn", "Social Media", "Personal Branding", "Job Search"],
+        "excerpt": "Transform your LinkedIn from resume dump to opportunity magnet",
+        "status": "planned"
+      },
+      {
+        "week": "November 17-23",
+        "publishDate": "2025-11-20",
+        "title": "Managing Up: How to Train Your Boss (Without Them Knowing)",
+        "slug": "managing-up-guide",
+        "category": "Professional Development",
+        "tags": ["Leadership", "Management", "Communication", "Office Politics"],
+        "excerpt": "Subtle strategies for improving your relationship with your manager",
+        "status": "planned"
+      },
+      {
+        "week": "November 24-30",
+        "publishDate": "2025-11-27",
+        "title": "Holiday Networking: Making the Most of Seasonal Gatherings",
+        "slug": "holiday-networking-strategies",
+        "category": "Professional Development",
+        "tags": ["Networking", "Holidays", "Relationships", "Career Growth"],
+        "excerpt": "Turn holiday parties into professional opportunities without being 'that person'",
+        "status": "planned"
+      },
+      {
+        "week": "December 1-7",
+        "publishDate": "2025-12-04",
+        "title": "Year-End Career Audit: Setting Yourself Up for 2026 Success",
+        "slug": "year-end-career-audit",
+        "category": "Career Strategy",
+        "tags": ["Career Planning", "Goal Setting", "Self-Assessment", "New Year"],
+        "excerpt": "A comprehensive framework for evaluating your career progress and planning ahead",
+        "status": "planned"
+      },
+      {
+        "week": "December 8-14",
+        "publishDate": "2025-12-11",
+        "title": "The Burnout Recovery Plan: Rebuilding Without Quitting",
+        "slug": "burnout-recovery-plan",
+        "category": "Workplace Culture",
+        "tags": ["Burnout", "Mental Health", "Work-Life Balance", "Recovery"],
+        "excerpt": "Practical strategies for recovering from burnout while staying employed",
+        "status": "planned"
+      },
+      {
+        "week": "December 15-21",
+        "publishDate": "2025-12-18",
+        "title": "Negotiating Your 2026: Raises, Roles, and Remote Work",
+        "slug": "negotiating-2026-career",
+        "category": "Career Strategy",
+        "tags": ["Negotiation", "Salary", "Career Planning", "New Year"],
+        "excerpt": "End-of-year strategies for positioning yourself for next year's opportunities",
+        "status": "planned"
+      },
+      {
+        "week": "December 22-28",
+        "publishDate": "2025-12-26",
+        "title": "Career Predictions 2026: Trends You Can't Afford to Ignore",
+        "slug": "career-predictions-2026",
+        "category": "Career Development",
+        "tags": ["Future of Work", "Trends", "Career Planning", "Technology"],
+        "excerpt": "Get ahead of the curve with these emerging career trends for the new year",
+        "status": "planned"
+      }
+    ]
+  }
+}

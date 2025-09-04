@@ -1,0 +1,104 @@
+{
+  "article": {
+    "title": "Top 5 AI Skills Everyone Should Master for Their Next Job Search",
+    "slug": "top-5-ai-skills-for-job-search",
+    "publishDate": "2025-09-04",
+    "author": "FollowMyStuff Editorial",
+    "categories": ["Career Development"],
+    "tags": ["AI", "Job Search", "Skills", "Technology", "Career Advancement", "Professional Development"],
+    "featuredImage": "ai-skills-job-search.jpg",
+    "excerpt": "AI isn't just for tech workers anymore. Discover the five essential AI skills that will make you stand out in 2025's competitive job market, regardless of your industry.",
+    "content": {
+      "introduction": "Remember when 'proficient in Microsoft Office' was the hot skill on resumes? Well, welcome to 2025, where AI literacy is the new baseline. If you're not leveraging AI in your job search and daily work, you're essentially showing up to a Formula 1 race on a bicycle. The good news? You don't need a computer science degree to master these game-changing skills.",
+      "sections": [
+        {
+          "heading": "1. Prompt Engineering for Productivity",
+          "content": "Think of prompt engineering as learning to speak 'AI.' It's not about coding; it's about knowing how to ask the right questions to get the best results. Whether you're using ChatGPT to draft emails, Claude to analyze data, or Midjourney to create presentations, the quality of your output depends entirely on the quality of your input.",
+          "tips": [
+            "Start with clear, specific instructions rather than vague requests",
+            "Use examples to show the AI what you're looking for",
+            "Iterate and refine - your first prompt rarely gets perfect results",
+            "Learn prompt patterns like 'Act as a [role]' or 'Step-by-step reasoning'"
+          ],
+          "realWorldExample": "Instead of 'Write a cover letter,' try: 'Act as a senior career coach. Write a compelling cover letter for a marketing manager position at a tech startup. Emphasize my 5 years of B2B experience and data-driven campaign success. Use a conversational but professional tone that shows enthusiasm without being overly formal.'"
+        },
+        {
+          "heading": "2. AI-Assisted Content Creation",
+          "content": "Every job involves some form of content creation - reports, presentations, emails, or social posts. AI tools can transform you from a decent writer into a content machine. But here's the catch: AI-assisted doesn't mean AI-replaced. The skill is knowing how to collaborate with AI, not abdicate to it.",
+          "tips": [
+            "Use AI for first drafts, then add your unique voice and expertise",
+            "Learn to fact-check and verify AI-generated content",
+            "Master the art of editing AI output rather than accepting it blindly",
+            "Understand different AI tools' strengths (ChatGPT for text, DALL-E for images, etc.)"
+          ],
+          "realWorldExample": "A project manager used AI to create weekly status reports in 15 minutes instead of 2 hours, freeing up time for actual project management. The key? She created a template prompt that pulled from her notes and formatted everything consistently."
+        },
+        {
+          "heading": "3. Data Analysis with AI Tools",
+          "content": "You don't need to be a data scientist to leverage AI for analysis. Tools like ChatGPT's Advanced Data Analysis, Claude's Artifacts, or specialized platforms like Julius AI can turn anyone into a data detective. The skill isn't in understanding algorithms; it's in knowing what questions to ask your data.",
+          "tips": [
+            "Start with simple questions about your data before diving into complex analysis",
+            "Learn to upload and format data properly for AI consumption",
+            "Understand basic data concepts like trends, correlations, and outliers",
+            "Practice translating business questions into data queries"
+          ],
+          "realWorldExample": "A sales rep uploaded three months of CRM data to an AI tool and discovered that follow-ups on Tuesdays had 40% higher conversion rates. This insight, which would have required hours of manual analysis, took five minutes with AI assistance."
+        },
+        {
+          "heading": "4. AI Ethics and Responsible Use",
+          "content": "Here's what separates the pros from the amateurs: understanding the ethical implications and limitations of AI. Companies aren't just looking for people who can use AI; they want employees who can use it responsibly and recognize when NOT to use it.",
+          "tips": [
+            "Always disclose when content is AI-generated or AI-assisted",
+            "Understand data privacy concerns when using AI tools",
+            "Recognize and mitigate AI bias in hiring, decision-making, and analysis",
+            "Know your company's AI usage policies (or help create them)"
+          ],
+          "realWorldExample": "A recruiter noticed their AI screening tool was filtering out qualified candidates from certain universities. By recognizing this bias and adjusting the parameters, they increased diverse candidate pools by 60% while maintaining quality standards."
+        },
+        {
+          "heading": "5. Automating Workflows with AI",
+          "content": "The ultimate AI skill? Making AI work for you automatically. This isn't about complex programming; it's about connecting AI tools with your existing workflows using platforms like Zapier, Make, or even simple browser extensions. The goal is to eliminate repetitive tasks so you can focus on work that actually requires human creativity and judgment.",
+          "tips": [
+            "Identify your most repetitive daily tasks",
+            "Start with simple automations before building complex workflows",
+            "Learn to use no-code automation platforms",
+            "Document your automations so others can learn from them"
+          ],
+          "realWorldExample": "A customer service manager automated response drafting for common inquiries, reducing response time from hours to minutes. The automation drafts responses, flags them for human review, and learns from edits to improve over time."
+        }
+      ],
+      "gettingStarted": {
+        "heading": "Getting Started: Your 30-Day AI Skills Roadmap",
+        "weeks": [
+          {
+            "week": 1,
+            "focus": "Master one AI tool deeply",
+            "action": "Choose ChatGPT, Claude, or Gemini and use it daily for work tasks. Practice different prompt styles."
+          },
+          {
+            "week": 2,
+            "focus": "Expand your toolkit",
+            "action": "Add a specialized tool (image generation, data analysis, or automation). Create something practical."
+          },
+          {
+            "week": 3,
+            "focus": "Build an automation",
+            "action": "Identify a repetitive task and automate it using AI. Document the process."
+          },
+          {
+            "week": 4,
+            "focus": "Teach and refine",
+            "action": "Share your AI wins with colleagues. Their questions will reveal gaps in your knowledge."
+          }
+        ]
+      },
+      "conclusion": "The AI revolution isn't coming - it's here. But unlike previous tech disruptions, this one's moving at warp speed. The professionals who'll thrive aren't necessarily the most technical; they're the ones who embrace AI as a collaborator rather than a competitor. Start with one skill, practice it daily, and watch as opportunities start finding you instead of the other way around. Remember: in the race to stay relevant, you don't need to be an AI expert. You just need to be AI-literate. And that journey starts with your very next prompt."
+    },
+    "seo": {
+      "metaTitle": "Top 5 AI Skills for Job Search Success in 2025 | FollowMyStuff",
+      "metaDescription": "Master these 5 essential AI skills to stand out in your job search. From prompt engineering to workflow automation, learn what employers really want.",
+      "focusKeyword": "AI skills for job search",
+      "keywords": ["AI skills", "job search 2025", "prompt engineering", "AI literacy", "career advancement", "AI tools for professionals"]
+    }
+  }
+}
